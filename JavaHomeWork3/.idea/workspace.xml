@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8912b754-0a53-421f-9a7b-96aa9a12ab25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaHomeWork3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/ArmstrongNumber14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/AscendingOrder7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/DuplicateValueInArray4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/InsertElement3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/META-INF/JavaHomeWork3.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/NumberOfA8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/NumberOfWordsSpace9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/SpecifitValueInArray2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/StringDuplicateValueInArray5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/SumOfFiveDigitNumber10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaHomeWork3/SumOfOddEven11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumber14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AscendingOrder7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckVowelDigit19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateValueInArray4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EqualityOfArrays6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertElement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiplicationTable17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfA8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfWordsSpace9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberReverse12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PelindromNumber15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumber16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortNumericStringArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SpecifitValueInArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringDuplicateValueInArray5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfFirstAndLast13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfFiveDigitNumber10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfOddEven11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaHomeWork2/out/production/JavaHomeWork2/ArmstrongWithForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AscendingOrder7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AscendingOrder7.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,12 +19,21 @@
     <option name="myElementSize" value="209" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CheckVowelDigit19.java">
+        <entry file="file://$PROJECT_DIR$/src/AscendingOrder7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+            <state relative-caret-position="260">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortNumericStringArray1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -97,18 +69,18 @@
         <option value="$PROJECT_DIR$/src/InsertElement3.java" />
         <option value="$PROJECT_DIR$/src/DuplicateValueInArray4.java" />
         <option value="$PROJECT_DIR$/src/StringDuplicateValueInArray5.java" />
-        <option value="$PROJECT_DIR$/src/AscendingOrder7.java" />
         <option value="$PROJECT_DIR$/src/PelindromNumber15.java" />
         <option value="$PROJECT_DIR$/src/ReverseString18.java" />
         <option value="$PROJECT_DIR$/src/CheckVowelDigit19.java" />
+        <option value="$PROJECT_DIR$/src/AscendingOrder7.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1340" />
-    <option name="height" value="690" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1261" />
+    <option name="y" value="173" />
+    <option name="width" value="1072" />
+    <option name="height" value="552" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,11 +105,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543863905733" />
-    <property name="last_opened_file_path" value="K:/src2/JavaHomeWork2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543867167142" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JavaHomeWork3" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -153,7 +125,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CheckVowelDigit19">
+  <component name="RunManager" selected="Application.SortNumericStringArray1">
+    <configuration name="AscendingOrder7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AscendingOrder7" />
+      <module name="JavaHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckVowelDigit19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckVowelDigit19" />
       <module name="JavaHomeWork3" />
@@ -168,20 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PelindromNumber15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PelindromNumber15" />
-      <module name="JavaHomeWork3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumber16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeNumber16" />
-      <module name="JavaHomeWork3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReverseString18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseString18" />
       <module name="JavaHomeWork3" />
@@ -189,13 +154,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortNumericStringArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortNumericStringArray1" />
+      <module name="JavaHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortNumericStringArray1" />
+        <item itemvalue="Application.AscendingOrder7" />
         <item itemvalue="Application.CheckVowelDigit19" />
         <item itemvalue="Application.ReverseString18" />
         <item itemvalue="Application.MultiplicationTable17" />
-        <item itemvalue="Application.PrimeNumber16" />
-        <item itemvalue="Application.PelindromNumber15" />
       </list>
     </recent_temporary>
   </component>
@@ -213,10 +185,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-1368" y="52" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33510637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -225,7 +197,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32577905" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,13 +247,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SortNumericStringArray1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SpecifitValueInArray2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -314,13 +279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AscendingOrder7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -366,13 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArmstrongNumber14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PelindromNumber15.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -405,6 +356,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArmstrongNumber14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortNumericStringArray1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AscendingOrder7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
         </state>
       </provider>
     </entry>

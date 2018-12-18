@@ -16,7 +16,7 @@ public class AscendingOrder7 {
         }
         //int temp;
         System.out.println();
-        System.out.print("In Acending order: ");
+        System.out.print("In Ascending order: ");
         for ( i=0;i<a.length; i++){
             for (int j=i+1; j<a.length; j++){
                 if (a[i]>a[j]){
